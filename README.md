@@ -1,2 +1,2 @@
 # week11
-import this
+# today was a good day
